@@ -50,3 +50,5 @@ function App() {
 }
 
 export default App;
+//todo line 19, 23, 31 - better to wrap in useCallback hook
+//todo line 7, 8 all such data better to store in redux and do not pass in all components as param (line 43, 46)
