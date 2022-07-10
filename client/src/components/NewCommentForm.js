@@ -39,3 +39,4 @@ const NewCommentForm = ({ post }) => {
 };
 
 export default NewCommentForm;
+//todo line 13 better to wrap in useCallback hook

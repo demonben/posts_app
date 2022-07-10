@@ -77,3 +77,4 @@ const EditPostModal = ({ editModalIsOpen, closeEditModal, post }) => {
 };
 
 export default EditPostModal;
+//todo EditPostModal and EditCommentModal has a lot common code. Better to mage one general modal for them
