@@ -47,3 +47,6 @@ const NewPostForm = () => {
 };
 
 export default NewPostForm;
+//todo line 12, 13 better to store in redux
+//todo line 15 better to wrap in useCallback hook
+//todo line 28, 38 better don't use html elements directly
