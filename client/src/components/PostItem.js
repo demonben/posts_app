@@ -86,3 +86,6 @@ const PostItem = ({ post }) => {
 };
 
 export default PostItem;
+//todo line 14, 15 better to store in redux
+//todo line 18 better to wrap in useMemo hook
+//todo line 20, 24, 27, 34 better to wrap in useCallback hook

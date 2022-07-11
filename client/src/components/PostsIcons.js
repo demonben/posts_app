@@ -78,3 +78,5 @@ const PostsIcons = ({
 };
 
 export default PostsIcons;
+//todo line 19, 20 why do we need it at all? We can use post.likes/dislikes from redux directly
+//todo line 33, 37, 41 better to wrap in useCallback hook
