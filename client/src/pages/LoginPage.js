@@ -23,3 +23,4 @@ const LoginPage = ({ user, handleChange, onSubmitLogin }) => {
 };
 
 export default LoginPage;
+//todo better don't use html elements directly (button, form, input etc.) better to create React dump components like Button, Form, Input etc
