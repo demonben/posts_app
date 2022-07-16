@@ -36,3 +36,4 @@ const MainPage = ({ user, logout }) => {
 };
 
 export default MainPage;
+//todo line 14 pageNumber better to store in redux
